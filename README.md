@@ -1,3 +1,5 @@
+GOAL OF THE PROJECT ------
+
 The software is a python-based software composed of a frontend UI and a backend consisting of multiple
 web API/microservices that speak to the DynamoDB database to store and retrieve the details.
 The goal of this project is to:
